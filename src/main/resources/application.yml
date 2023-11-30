@@ -1,0 +1,16 @@
+discord:
+    prefix: ${DISCORD_PREFIX}
+    token: ${DISCORD_TOKEN}
+    guild-id: ${DISCORD_GUILD_ID}
+    intents: message_content, guild_messages
+
+spring:
+    datasource:
+        url: ${DB_URL}
+        username: ${DB_USER}
+        password: ${DB_PASS}
+        driver-class-name: ${DB_DRIVER}
+    jpa:
+        hibernate:
+            ddl-auto: update
+        show-sql: true
