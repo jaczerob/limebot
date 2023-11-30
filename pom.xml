@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.jaczerob</groupId>
-    <artifactId>greendog</artifactId>
+    <artifactId>limebot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>greendog</name>
-    <description>greendog</description>
+    <name>limebot</name>
+    <description>limebot</description>
 
     <properties>
         <java.version>21</java.version>
