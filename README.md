@@ -1,9 +1,6 @@
 # Lime Bot
-A Discord bot created for Limetastic (@corporate_clash)
+A Discord bot created for Limetastic (@corporate_clash).
 
+See [discord-spring-boot-starter](https://github.com/jaczerob/discord-spring-boot-starter) for JDA Spring Boot integration.
 
-<style>
-h1, h2, h3 {
-    text-align: center;
-}
-</style>
+To run yourself, populate environment variables seen in [application.yml](src/main/resources/application.yml).
